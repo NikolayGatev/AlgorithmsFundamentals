@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverce", "Reverce\Reverce.csproj", "{8EE8A61C-085E-47C2-AE29-A6D59E0E8DBB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverce", "Reverce\Reverce.csproj", "{8EE8A61C-085E-47C2-AE29-A6D59E0E8DBB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLoopsToRecursion", "NestedLoopsToRecursion\NestedLoopsToRecursion.csproj", "{3424E9BA-CFBE-445F-89E8-B32C1E4629BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NestedLoopsToRecursion", "NestedLoopsToRecursion\NestedLoopsToRecursion.csproj", "{3424E9BA-CFBE-445F-89E8-B32C1E4629BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConnectedAreasInMatrix", "ConnectedAreasInMatrix\ConnectedAreasInMatrix.csproj", "{7F9D8C87-7199-44A2-BC2A-7F03DC20EE2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConnectedAreasInMatrix", "ConnectedAreasInMatrix\ConnectedAreasInMatrix.csproj", "{7F9D8C87-7199-44A2-BC2A-7F03DC20EE2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cinema", "Cinema\Cinema.csproj", "{974DDCEC-E581-4585-A5BB-876B689156A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cinema", "Cinema\Cinema.csproj", "{974DDCEC-E581-4585-A5BB-876B689156A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolTeams", "SchoolTeams\SchoolTeams.csproj", "{619F8BAD-5EA5-4FBC-8D33-158B38E41CE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolTeams", "SchoolTeams\SchoolTeams.csproj", "{619F8BAD-5EA5-4FBC-8D33-158B38E41CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordCruncher", "WordCruncher\WordCruncher.csproj", "{EDEA6918-207F-4AB1-80A6-FE8B34D04CBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{619F8BAD-5EA5-4FBC-8D33-158B38E41CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{619F8BAD-5EA5-4FBC-8D33-158B38E41CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{619F8BAD-5EA5-4FBC-8D33-158B38E41CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDEA6918-207F-4AB1-80A6-FE8B34D04CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDEA6918-207F-4AB1-80A6-FE8B34D04CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDEA6918-207F-4AB1-80A6-FE8B34D04CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDEA6918-207F-4AB1-80A6-FE8B34D04CBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
