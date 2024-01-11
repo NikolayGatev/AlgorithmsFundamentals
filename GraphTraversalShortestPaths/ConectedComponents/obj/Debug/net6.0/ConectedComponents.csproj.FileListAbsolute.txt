@@ -1,0 +1,14 @@
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\ConectedComponents\bin\Debug\net6.0\ConectedComponents.exe
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\ConectedComponents\bin\Debug\net6.0\ConectedComponents.deps.json
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\ConectedComponents\bin\Debug\net6.0\ConectedComponents.runtimeconfig.json
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\ConectedComponents\bin\Debug\net6.0\ConectedComponents.dll
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\ConectedComponents\bin\Debug\net6.0\ConectedComponents.pdb
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\ConectedComponents\obj\Debug\net6.0\ConectedComponents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\ConectedComponents\obj\Debug\net6.0\ConectedComponents.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\ConectedComponents\obj\Debug\net6.0\ConectedComponents.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\ConectedComponents\obj\Debug\net6.0\ConectedComponents.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\ConectedComponents\obj\Debug\net6.0\ConectedComponents.dll
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\ConectedComponents\obj\Debug\net6.0\refint\ConectedComponents.dll
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\ConectedComponents\obj\Debug\net6.0\ConectedComponents.pdb
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\ConectedComponents\obj\Debug\net6.0\ConectedComponents.genruntimeconfig.cache
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\ConectedComponents\obj\Debug\net6.0\ref\ConectedComponents.dll

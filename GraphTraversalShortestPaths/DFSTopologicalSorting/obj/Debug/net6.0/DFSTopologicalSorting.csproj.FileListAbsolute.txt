@@ -1,0 +1,14 @@
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\DFSTopologicalSorting\bin\Debug\net6.0\DFSTopologicalSorting.exe
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\DFSTopologicalSorting\bin\Debug\net6.0\DFSTopologicalSorting.deps.json
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\DFSTopologicalSorting\bin\Debug\net6.0\DFSTopologicalSorting.runtimeconfig.json
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\DFSTopologicalSorting\bin\Debug\net6.0\DFSTopologicalSorting.dll
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\DFSTopologicalSorting\bin\Debug\net6.0\DFSTopologicalSorting.pdb
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\DFSTopologicalSorting\obj\Debug\net6.0\DFSTopologicalSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\DFSTopologicalSorting\obj\Debug\net6.0\DFSTopologicalSorting.AssemblyInfoInputs.cache
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\DFSTopologicalSorting\obj\Debug\net6.0\DFSTopologicalSorting.AssemblyInfo.cs
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\DFSTopologicalSorting\obj\Debug\net6.0\DFSTopologicalSorting.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\DFSTopologicalSorting\obj\Debug\net6.0\DFSTopologicalSorting.dll
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\DFSTopologicalSorting\obj\Debug\net6.0\refint\DFSTopologicalSorting.dll
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\DFSTopologicalSorting\obj\Debug\net6.0\DFSTopologicalSorting.pdb
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\DFSTopologicalSorting\obj\Debug\net6.0\DFSTopologicalSorting.genruntimeconfig.cache
+C:\Users\Nikolay\source\repos\NikolayGatev\AlgorithmsFundamentals\GraphTraversalShortestPaths\DFSTopologicalSorting\obj\Debug\net6.0\ref\DFSTopologicalSorting.dll
